@@ -19,9 +19,10 @@ Luana Bezerra Barbosa, 20 anos, natural de Garanhuns, Pernambuco, é estudante d
     />
   </a>
 
- <a href="mailto:luanahbbarbosa2005@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=luanahbbarbosa2005@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  
 </p>
 
 ---
@@ -45,5 +46,5 @@ Luana Bezerra Barbosa, 20 anos, natural de Garanhuns, Pernambuco, é estudante d
 
 <p align="center">
   <img alt="Tecnologias Mais Usadas" height="200" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=luahbarbosa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10&locale=pt-br&v=1" style="margin-right: 10px;" />
-  <img alt="Sequência de Contribuições" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=luahbarbosa&theme=tokyonight&locale=pt_BR&v=1" />
+  <img alt="Sequência de Contribuições" height="200" src="https://streak-stats.demolab.com/?user=luahbarbosa&theme=tokyonight&locale=pt_BR" />
 </p>
