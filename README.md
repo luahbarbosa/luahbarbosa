@@ -6,13 +6,24 @@ Luana Bezerra Barbosa, 20 anos, natural de Garanhuns, Pernambuco, é estudante d
 
 <p align="left">
   <a href="https://www.linkedin.com/in/luana-barbosa-dev" target="_blank">
-    <img alt="LinkedIn" title="Meu LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge"/>
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
+
   <a href="https://github.com/luahbarbosa" target="_blank">
-    <img alt="GitHub" title="Meu GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
+    <img 
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
+
   <a href="mailto:luahbbarbosa2005@gmail.com">
-    <img alt="Email" title="Enviar email" src="https://custom-icon-badges.demolab.com/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge"/>
+    <img 
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
   </a>
 </p>
 
