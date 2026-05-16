@@ -45,6 +45,5 @@ Luana Bezerra Barbosa, 20 anos, natural de Garanhuns, Pernambuco, é estudante d
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img alt="Tecnologias Mais Usadas" height="200" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=luahbarbosa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10&locale=pt-br&v=1" style="margin-right: 10px;" />
   <img alt="Sequência de Contribuições" height="200" src="https://streak-stats.demolab.com/?user=luahbarbosa&theme=tokyonight&locale=pt_BR" />
 </p>
