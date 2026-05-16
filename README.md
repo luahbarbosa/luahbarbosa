@@ -1,6 +1,6 @@
 # 🤖 Luana  
 
-**'Desenvolvedora Frontend'**
+**'Desenvolvedora FullStack'**
 
 Luana Bezerra Barbosa, 20 anos, natural de Garanhuns, Pernambuco, é estudante de Análise e Desenvolvimento de Sistemas e apaixonada por tecnologia, programação e desenvolvimento de software. Atualmente, dedica-se aos estudos na área de TI, desenvolvendo projetos acadêmicos em Java, Banco de Dados e Engenharia de Requisitos, além de aprofundar seus conhecimentos em Arquitetura de Computadores. Determinada e focada no crescimento profissional, busca constantemente aprender novas tecnologias e aprimorar suas habilidades para construir uma carreira sólida na área de desenvolvimento de sistemas.
 
